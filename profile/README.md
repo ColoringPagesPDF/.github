@@ -1,6 +1,6 @@
 # 🎨 Coloring Pages PDF – Unleash Your Creativity! 🖌️
 
-Welcome to [**Coloring Pages PDF**](https://bsky.app/profile/gumroad.bsky.social), your ultimate destination for hours of artistic fun and relaxation! This project is perfect for all ages — whether you're a child exploring colors for the first time, a teenager experimenting with artistic expression, or an adult seeking a mindful, stress-relieving hobby.
+Welcome to [**Coloring Pages PDF**](https://bsky.app/profile/coloringpagespdf.bsky.social), your ultimate destination for hours of artistic fun and relaxation! This project is perfect for all ages — whether you're a child exploring colors for the first time, a teenager experimenting with artistic expression, or an adult seeking a mindful, stress-relieving hobby.
 
 <img width="1536" height="1024" alt="Coloring Pages PDF - GitHub" src="https://github.com/user-attachments/assets/3b25a98b-2bec-4568-9b56-3ba86ba8ae22" />
 
@@ -26,4 +26,4 @@ Whether you want to spend a quiet afternoon at home, enhance your mindfulness pr
 
 This repository also encourages contributions! If you create your own coloring pages, feel free to submit a **pull request** and share your designs with the community. Let’s make creativity accessible for everyone.
 
-🎯 All-In-One @ 👉[**Coloring Pages PDF📚🎨🖌**](https://bsky.app/profile/gumroad.bsky.social)
+🎯 All-In-One @ 👉[**Coloring Pages PDF📚🎨🖌**](https://bsky.app/profile/coloringpagespdf.bsky.social)
